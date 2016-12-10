@@ -1,0 +1,46 @@
+Scenario Notes for Version 8.
+FROM Nikademus's Original scenario:
+This scenario is based on the grand campaign May 1942 version that shipped with original WitP stock.
+
+Veterans of WitP will remember that the post 1941 grand campaigns were essentially copies of the standard Dec 7 1941 scenario with a few key playing pieces moved around whilst the majorty of the units remained in their 1941 positions. Please read carefully the descriptions and disclaimers before commenting. Thx.
+
+What This Scenario attempts to be:
+
+This scenario is meant to be a more comprehensive 1942 GC scenario than it's predecessor with a focus on minimizing player administration on Turn 1. This was accomplished by the following:
+
+- most units (land/sea/air), including reinforcements that arrived between 12/7/41 and 5/1/42 have been moved either to their historical locations, or placed in a logical distribution based on the time period in question. (aka, in other words...no more finding piles of LCU's for example at Formosa in their 1941 positions ready to invade the SRA and PI islands)
+
+The exception here is China. For the time being I have left it alone due to the mostly static nature of the conflict there at the time, + the fact that it's such a hyper Theater that players will quickly change the entire face of the map with movements, offenses and defenses within a few turns. An exception to this exception is that I put in a rough estimate of the Chinese Expeditionary Force that stumbled it's way out of Burma by mid 42
+
+- The bulk of the opposing forces' merchant fleets have been concentrated at either their respective auto-convoy ports (Osaka/Columbo/San Francisco), or their home capital as in the case of Australia. This will allow players to quickly and easily allocate what proportions of their merchant fleets to economic and auto convoy duties without having the scour the map trying to locate them.
+
+- The various opposing fleets have also been congregated in large part at home ports and bases with the exception of units assigned to imminent ops. For the Japanese fleet, there was some disbursement of major units to various naval commands so one will find major units at Singapore, Java, and the PI's as well as the Home Islands.
+
+- All warships and merchants have been scrubbed to put them on their most current upgrades as of 5/1/42
+
+- Airplane pools have been adjusted for May of 42. This was roughly based on letting the respective economies run for the six month period from dec41 to may42 + a tweak here or there.
+
+- Map has been adjusted to account for May 42 situation (obviously) and command HQ assignments dolled out. (This may change somewhat in future versions as the AI scripting is hashed out)
+
+- The historical forces for the Coral Sea operation and the situation in Burma are represented in close proximity as these were the two active hot spots at this point in time.
+
+- Some additions to Restricted Commands were put in force to balance out the large amount of Allied LCU's that start the original scenario as well as reinforcements. This was done to reflect the political priorities of the time that stressed a defensive posture for the Allies in case of Japanese invasion. On a pragmatic game related side, it helps curb the 'early Allied counter-offensive' phenomenon that tends to infect most AE GC's.
+
+What this scenario is NOT
+
+This scenario is not....repeat NOT meant to represent a complete and anally retentive effort to historically place every single air unit, LCU or ship in their historical starting points in May of 1942. ............
+
+BIG B'S NOTES:
+1) Oil Production
+[Historical Background]
+[ Japan did attempt to exploit the DEI's natural resources (oil, rubber, tin, etc.). Oil of course was the key resource. The Japanese managed to seize only about 4 million barrels of oil as many of the storage tanks were destroyed. Even worse for the Japanese, actually producing oil proved to be a much more difficult undertaking than seizing the oil fields. This is because the Dutch had anticipated the invasion and did a very through job on putting the fields out of operation, especially the all important refineries. The Oil Wells and Refineries in Balikpapan and Tarakan  were thoroughly Destroyed by the Dutch - for which Dutch POW's paid the ultimate price with their lives.
+The Japanese war planners had anticipated quickly bringing the oil fields and refineries back on line. It proved to be a much more difficult undertaking than anticipated. 
+The whole task was further set back when a transport ship carting refinery equipment and even more important skilled refinery personnel was sunk. This meant that the refineries were off line all of 1942. For the Japanese this proved a disaster. The Japanese finally managed to get production up to 50 million barrels, 76 percent of its 1940 output rate (1943). The problem for the Japanese was that producing oil in the DEI did them little good. They needed to transport it back to the Home Islands. And this proved a serious problem. By the time the refineries were operational, the American submarine campaign had begun to bite. Thus only limited quantities of oil actually reached Japan. And after the Americans seized the Philippines (October 1944-January 1945), Japan was entirely cut off. So Japan failed to achieve its primary war aim, obtaining access to oil.  ]
+
+IN GAME - Balikpapan & Tarakan's Oil Production and Refinery Facilities start the scenario destroyed (historical). However, so as not to cost the Japanese player 780,000 supply points to repair (wrecking the Japanese economy),  Balikpapan & Tarakan have each been given Japanese automatic supply 500 supply daily to make the repairs.
+These two locations will be back in operation at the historical time frame of one or two years - free of charge.
+
+2) Task Forces -
+Japanese and Allied Task forces for CV TF's and Main Body Combined Fleet have been recreated accurately - as they existed in May-June 1942.  This will keep the computer AI from doing Odd things that were observed at the beginning of the game.  The AI will now behave and prosecute the rest of the war as it normally does.
+
+3) This scenario has been properly refitted to Andrew Brown's Extended Map.
