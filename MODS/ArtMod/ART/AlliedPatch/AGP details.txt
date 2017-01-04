@@ -1,9 +1,0 @@
-AGP artwork to date, some resized.
-Dixie, Les and Halsey's and others contributions.
-
-Backup your old art first.
-
-Unzip to AlliedPatch folder in the main AE Art folder.
-Overwrite and replace.
-If you don't have the folder, create one first and put it in the main AE Art folder.
-
