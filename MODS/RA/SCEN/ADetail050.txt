@@ -1,0 +1,36 @@
+The Reluctant Admiral is a Japanese 'what if' scenario based upon a greater contribution by Adm. Yamamoto Isoroku to the development of the Kaigun in 1936-1941. The premise of the Mod is that Yamamoto exerted a much greater influence first on the Japan Naval Aircraft Industry, then as Deputy Navy Minister, and finally as Navy Minister itself. Yamamoto chooses, at great risk to his life, to forego command of the Combined Fleet and dedicate himself to preparing Japan for a war he didn't want.  
+
+He adds two new slipways for Fleet construction to facilitate a different, final pre-war expansion of the Kaigun.  New and expanded Naval Yards, Heavy Industry, and Armaments are added at tremendous cost for the Japanese economy as the Admiral attempts to prepare Japan for a possibly long war.
+
+In so choosing to do this Yamamoto then changes the 4th Circle Building plan replacing the 3rd and 4th Yamato-Class Battleships with improved Shokaku-Class CVs and a pair of Kawachi-Class fast Battlecruisers, two Tone-Class CAs, an accelerated Light Cruiser deployment, and additional destroyers.  Quick, reasonably cheap carrier conversions are moved forward seeing all of the pre-war CVs/CVLs deploy by December 7th or at slightly earlier dates in 1942.  Though only a few of these new ships are ready on December 7th, these additions shall make the Kaigun a force to be reckoned with well into 1944.
+
+The Japan Naval Air Arm is changed so that everything is staked to the Zero Airframe with a specialization of the Zero into a Land-Based Interceptor as well as CV-Based Fighters. Research and production expansion is achieved by streamlining the air industry (cutting several models) while bringing forward second generation aircraft:  Judy, Jill, etc…  By great effort the IJNAF deploys nearly all new aircraft on December 7th.
+
+On the ground Yamamoto reorganizes the SNLF units into a Brigade-Sized offensive force and—knowing it will be a war of attrition—converts many Naval Guard into enhanced units with Coastal Defense artillery (using guns taken from refitted warships) for a stronger defensive unit.  Additional small units are added to the IJN’s Troops and support units better reflecting Yamamoto's foresight into base building, defense, and expansion needs.  While all these units are small and not in great number they promise to help the Japanese war effort.
+
+The foresight of the Admiral pays off during late-1942 and 1943 as new ships, aircraft, and ground units enter into the Japanese Order-of-Battle, however, the cost is steep. Though expanded and using modern aircraft many Japanese Naval Air units start with their experience lowered to reflect the dilution of the experienced pilots into new units that start in Japan or arrive during 1942-1943. 
+
+Supply and fuel reserves start at a much reduced state. The Japanese MUST take the DEI as fast as possible! 
+
+Once war begins RA postulates Yamamoto’s influence upon the wartime Kaigun.  Several more Shokaku CVs are ordered as well as another pair of CAs, and the conversion of several CLs into CVLs.  First class destroyers are accelerated and emphasis is shifted to the AA Akizuki-Class at the expense of the more balanced Yugumo’s. Manpower is at a premium within the Fleet so Submarines, Escorts, and ASW forces all see a major retooling reflecting the Japanese quality over quantity belief. Yamamoto chooses the immediately useful projects, large APs converting to CVEs, better 2nd-class destroyers, fast transports and coastal defense fleet.  
+
+It should be noted that not all the changes are for the Japanese. RA 6.0 brings major additions and more choice for the Allied Player.  The Allies see continued major changes in their starting locations, new air units, the addition of Training Squadrons on mainland USA to allow for an American pilot training program, enhanced aircraft production numbers, several ground units, a French Squadron at Noumea, the use of CLV Charlotte (a Flightdeck Cruiser), a CLAA conversion for the Omaha-CL, an additional pair of CVLs, and optional conversion of the Kittyhawk Class AKV, Tangier Class AV, and Cimarron Class AOs into CVEs. The added warships reflect a ‘stopgap’ counter to the increased Japanese strength found at war’s start. 
+
+How well can YOU do to use these new tools OR how well can you stop the Japanese Navy in its tracks as the Allies? 
+
+Designer's notes: 
+1.	RA is fully compatible with Da Babe’s Modifications and may be used on the Extended Map with any other Babes feature.
+2.	This Mod uses the reduced cargo capacity of DBB.
+3.	Garrison requirements have been raised throughout the CBI Theatre to slow the creation and movement of immense stacks of troops that is considered a-historical.  
+4.	Production is 'on' for this scenario
+5.	A special pwhexe.dat file is strongly recommended to help slow land movement throughout the map. 
+
+Scenario Designers: Stanislav Bartoshevitch (FatR), Michael Benoit (NY59Giants), John R. Cochran, III (John 3rd), Juan Gomez (JuanG), Ben Kloosterman (BK), John (JWE), EJ (SuluSea) and John Young (Red Lancer) 
+
+
+
+"Before we're through with 'em, the Japanese language will
+be spoken only in Hell!" 
+
+-VADM W.F. Halsey,  December 8th, 1941
+
